@@ -1,0 +1,19 @@
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) | DONE(d) CANCELLED(c)
+
+* Glowing Potato
+A repo to explore HCG OEM product offerings
+
+** Facts
+*** HCG Tech ya existe en USA
+*** HCG Tech ya es OEM
+*** Vicon no sirve a los use-cases nicho de VP o mocap
+*** HCG puede llenar ese hueco con tecnologia propietaria
+
+** Todo
+*** NEXT Pensar en casos de uso
+*** TODO Reunirnos de nuevo para discutir
+*** TODO Identificar el/los casos de uso que otorgen el mayor valor
+*** TODO Propuesta de diseno
+*** TODO Propuesta de implementacion
+*** TODO Propuesta de roadmap
+*** TODO Comenzar trabajo
